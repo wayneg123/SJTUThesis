@@ -1,6 +1,6 @@
-# 上海交通大学学位论文模板
+# 江苏大学学位论文模板
 
-这是为撰写上海交通大学学士、硕士或博士论文而准备的 XeLaTeX 模板，非官方出品。生成的学位论文文件参见 [README.pdf][README]，详细使用说明参见 [SJTUThesis Wiki](https://github.com/weijianwen/SJTUThesis/wiki)，欢迎大家分享使用经验。
+这是为撰写江苏大学学士、硕士或博士论文而准备的 XeLaTeX 模板，非官方出品，在上海交通大学学位论文模板([SJTUThesis](https://github.com/weijianwen/SJTUThesis/wiki))的基础上修改而来。生成的学位论文文件参见 [README.pdf][README]，详细使用说明参见 [SJTUThesis Wiki](https://github.com/weijianwen/SJTUThesis/wiki)，欢迎大家分享使用经验。
 
 ## 如何使用
 
